@@ -40,7 +40,7 @@ their unique Hotspots before they are granted access to the blockchain.
 ## Aiteks
 
 :::caution This Maker is approved, but is not included in the official list of Makers in good standing
-that can be found at https://www.helium.com/mine#hotspots
+w can be found at https://www.helium.com/mine#hotspots
 :::
 
 - [Website](https://shop.aiteks.com/)
